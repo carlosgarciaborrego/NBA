@@ -1,0 +1,1230 @@
+1|Boston Celtics|Philadelphia76ers|105|87|
+1|Golden State Warriors|OklahomaCityThunder|108|100|
+2|Charlotte Hornets|MilwaukeeBucks|112|113|
+2|Detroit Pistons|BrooklynNets|103|100|
+2|Indiana Pacers|MemphisGrizzlies|111|83|
+2|Orlando Magic|MiamiHeat|104|101|
+2|New York Knicks|AtlantaHawks|126|107|
+2|Toronto Raptors|ClevelandCavaliers|116|104|
+2|Houston Rockets|NewOrleansPelicans|112|131|
+2|San Antonio Spurs|MinnesotaTimberwolves|112|108|
+2|Sacramento Kings|UtahJazz|117|123|
+2|Phoenix Suns|DallasMavericks|121|100|
+2|Los Angeles Clippers|DenverNuggets|98|107|
+3|Philadelphia 76ers|ChicagoBulls|127|108|
+3|Washington Wizards|MiamiHeat|112|113|
+3|Portland Trail Blazers|LosAngelesLakers|128|119|
+4|Orlando Magic|CharlotteHornets|88|120|
+4|Brooklyn Nets|NewYorkKnicks|107|105|
+4|Toronto Raptors|BostonCeltics|113|101|
+4|Memphis Grizzlies|AtlantaHawks|131|117|
+4|Minnesota Timberwolves|ClevelandCavaliers|131|123|
+4|New Orleans Pelicans|SacramentoKings|149|129|
+4|Milwaukee Bucks|IndianaPacers|118|101|
+4|Utah Jazz|GoldenStateWarriors|123|124|
+4|Los Angeles Clippers|OklahomaCityThunder|108|92|
+5|Washington Wizards|TorontoRaptors|113|117|
+5|Indiana Pacers|BrooklynNets|132|112|
+5|New York Knicks|BostonCeltics|101|103|
+5|Philadelphia 76ers|OrlandoMagic|116|115|
+5|Miami Heat|CharlotteHornets|112|113|
+5|Chicago Bulls|DetroitPistons|116|118|
+5|Dallas Mavericks|MinnesotaTimberwolves|140|136|
+5|Denver Nuggets|PhoenixSuns|119|91|
+5|Portland Trail Blazers|SanAntonioSpurs|121|108|
+5|Los Angeles Lakers|HoustonRockets|115|124|
+6|Cleveland Cavaliers|AtlantaHawks|111|133|
+6|Oklahoma City Thunder|SacramentoKings|120|131|
+6|Denver Nuggets|GoldenStateWarriors|100|98|
+6|Los Angeles Clippers|HoustonRockets|115|112|
+7|Boston Celtics|OrlandoMagic|90|93|
+7|Toronto Raptors|CharlotteHornets|127|106|
+7|Milwaukee Bucks|NewYorkKnicks|124|113|
+7|Minnesota Timberwolves|IndianaPacers|101|91|
+7|Dallas Mavericks|ChicagoBulls|115|109|
+7|Utah Jazz|MemphisGrizzlies|84|92|
+7|Portland Trail Blazers|WashingtonWizards|124|125|
+7|Golden State Warriors|PhoenixSuns|123|103|
+7|Los Angeles Lakers|SanAntonioSpurs|142|143|
+8|Detroit Pistons|Philadelphia76ers|133|132|
+8|New Orleans Pelicans|LosAngelesClippers|116|109|
+8|Denver Nuggets|SacramentoKings|126|112|
+9|Atlanta Hawks|DallasMavericks|111|104|
+9|Cleveland Cavaliers|BrooklynNets|86|102|
+9|Miami Heat|NewYorkKnicks|110|87|
+9|Toronto Raptors|MinnesotaTimberwolves|112|105|
+9|Chicago Bulls|CharlotteHornets|112|110|
+9|Houston Rockets|UtahJazz|89|100|
+9|San Antonio Spurs|IndianaPacers|96|116|
+9|Milwaukee Bucks|Philadelphia76ers|123|108|
+9|Phoenix Suns|LosAngelesLakers|113|131|
+9|Sacramento Kings|MemphisGrizzlies|97|92|
+9|Golden State Warriors|WashingtonWizards|144|122|
+10|Detroit Pistons|ClevelandCavaliers|110|103|
+10|Orlando Magic|PortlandTrailBlazers|114|128|
+10|Oklahoma City Thunder|BostonCeltics|95|101|
+10|Los Angeles Lakers|DenverNuggets|121|114|
+11|Charlotte Hornets|ChicagoBulls|135|106|
+11|New York Knicks|GoldenStateWarriors|100|128|
+11|Toronto Raptors|DallasMavericks|116|107|
+11|Minnesota Timberwolves|MilwaukeeBucks|95|125|
+11|New Orleans Pelicans|BrooklynNets|117|115|
+11|Houston Rockets|LosAngelesClippers|113|133|
+11|Sacramento Kings|WashingtonWizards|116|112|
+12|Detroit Pistons|BostonCeltics|89|109|
+12|New Orleans Pelicans|UtahJazz|111|132|
+12|Atlanta Hawks|ChicagoBulls|85|97|
+12|Cleveland Cavaliers|IndianaPacers|107|119|
+12|Philadelphia 76ers|CharlotteHornets|105|103|
+12|Miami Heat|PortlandTrailBlazers|120|111|
+12|Memphis Grizzlies|PhoenixSuns|117|96|
+12|Milwaukee Bucks|OrlandoMagic|113|91|
+12|San Antonio Spurs|LosAngelesLakers|110|106|
+13|Brooklyn Nets|GoldenStateWarriors|114|120|
+13|Dallas Mavericks|UtahJazz|104|113|
+13|Oklahoma City Thunder|PhoenixSuns|117|110|
+13|Los Angeles Clippers|WashingtonWizards|136|104|
+14|Indiana Pacers|PortlandTrailBlazers|93|103|
+14|Philadelphia 76ers|AtlantaHawks|113|92|
+14|Miami Heat|SacramentoKings|113|123|
+14|New York Knicks|BrooklynNets|115|96|
+14|Chicago Bulls|GoldenStateWarriors|124|149|
+14|Milwaukee Bucks|TorontoRaptors|124|109|
+14|Minnesota Timberwolves|LosAngelesLakers|124|120|
+14|San Antonio Spurs|DallasMavericks|113|108|
+14|Denver Nuggets|NewOrleansPelicans|116|111|
+15|Charlotte Hornets|MiamiHeat|125|113|
+15|Cleveland Cavaliers|AtlantaHawks|136|114|
+15|Orlando Magic|SacramentoKings|99|107|
+15|Boston Celtics|DetroitPistons|108|105|
+15|Toronto Raptors|Philadelphia76ers|129|112|
+15|Houston Rockets|PortlandTrailBlazers|85|104|
+15|Memphis Grizzlies|WashingtonWizards|107|95|
+15|Oklahoma City Thunder|LosAngelesClippers|128|110|
+16|Brooklyn Nets|DetroitPistons|120|119|
+16|New York Knicks|IndianaPacers|101|107|
+16|Chicago Bulls|DenverNuggets|107|108|
+16|Minnesota Timberwolves|UtahJazz|128|125|
+16|Golden State Warriors|NewOrleansPelicans|131|121|
+16|Los Angeles Lakers|DallasMavericks|114|113|
+16|Phoenix Suns|SanAntonioSpurs|90|120|
+17|Charlotte Hornets|OklahomaCityThunder|107|111|
+17|Cleveland Cavaliers|DenverNuggets|91|110|
+17|Philadelphia 76ers|LosAngelesClippers|122|113|
+17|Atlanta Hawks|SacramentoKings|115|146|
+17|Boston Celtics|MilwaukeeBucks|117|113|
+17|Portland Trail Blazers|NewOrleansPelicans|132|119|
+18|Orlando Magic|LosAngelesClippers|95|120|
+18|Brooklyn Nets|HoustonRockets|111|119|
+18|Washington Wizards|OklahomaCityThunder|111|134|
+18|Chicago Bulls|IndianaPacers|105|107|
+18|Dallas Mavericks|NewYorkKnicks|106|118|
+18|Utah Jazz|MemphisGrizzlies|100|110|
+18|Phoenix Suns|TorontoRaptors|98|107|
+18|Golden State Warriors|MinnesotaTimberwolves|116|99|
+19|Philadelphia 76ers|DetroitPistons|109|99|
+19|Charlotte Hornets|ClevelandCavaliers|126|94|
+19|Indiana Pacers|BostonCeltics|102|101|
+19|Atlanta Hawks|MiamiHeat|123|118|
+19|Chicago Bulls|HoustonRockets|88|96|
+19|San Antonio Spurs|NewOrleansPelicans|109|95|
+19|Denver Nuggets|UtahJazz|103|88|
+19|Portland Trail Blazers|LosAngelesLakers|110|114|
+20|Milwaukee Bucks|SacramentoKings|144|109|
+20|Brooklyn Nets|Philadelphia76ers|122|97|
+20|Washington Wizards|NewYorkKnicks|108|95|
+20|San Antonio Spurs|OrlandoMagic|110|117|
+20|Phoenix Suns|MemphisGrizzlies|102|100|
+20|Portland Trail Blazers|MinnesotaTimberwolves|111|81|
+20|Los Angeles Lakers|TorontoRaptors|107|121|
+21|Detroit Pistons|MiamiHeat|115|120|
+21|Indiana Pacers|HoustonRockets|94|98|
+21|Orlando Magic|ClevelandCavaliers|102|100|
+21|New York Knicks|ChicagoBulls|115|116|
+21|Oklahoma City Thunder|NewOrleansPelicans|122|116|
+21|Denver Nuggets|BostonCeltics|115|107|
+21|Utah Jazz|TorontoRaptors|111|124|
+21|Golden State Warriors|MemphisGrizzlies|117|101|
+21|Los Angeles Clippers|MinnesotaTimberwolves|120|109|
+22|Charlotte Hornets|AtlantaHawks|113|102|
+22|Dallas Mavericks|WashingtonWizards|119|100|
+22|Phoenix Suns|BrooklynNets|82|104|
+22|Portland Trail Blazers|MilwaukeeBucks|118|103|
+23|Cleveland Cavaliers|OklahomaCityThunder|86|95|
+23|Orlando Magic|DetroitPistons|96|103|
+23|Atlanta Hawks|NewYorkKnicks|107|112|
+23|Miami Heat|SanAntonioSpurs|95|88|
+23|Indiana Pacers|Philadelphia76ers|94|100|
+23|Memphis Grizzlies|DenverNuggets|89|87|
+23|New Orleans Pelicans|ChicagoBulls|107|98|
+23|Utah Jazz|DallasMavericks|117|102|
+23|Sacramento Kings|TorontoRaptors|105|114|
+23|Los Angeles Lakers|MinnesotaTimberwolves|114|110|
+24|Oklahoma City Thunder|HoustonRockets|98|80|
+24|Phoenix Suns|BostonCeltics|109|116|
+24|Portland Trail Blazers|LosAngelesClippers|116|105|
+24|Golden State Warriors|MilwaukeeBucks|111|134|
+25|Orlando Magic|WashingtonWizards|117|108|
+25|Philadelphia 76ers|CharlotteHornets|133|132|
+25|Atlanta Hawks|DetroitPistons|109|124|
+25|Miami Heat|IndianaPacers|102|110|
+25|Denver Nuggets|BrooklynNets|110|112|
+25|Utah Jazz|BostonCeltics|123|115|
+25|Sacramento Kings|MinnesotaTimberwolves|121|110|
+26|Toronto Raptors|NewYorkKnicks|128|112|
+26|Los Angeles Clippers|MilwaukeeBucks|128|126|
+26|New Orleans Pelicans|PhoenixSuns|119|99|
+26|Miami Heat|WashingtonWizards|110|116|
+26|Chicago Bulls|ClevelandCavaliers|99|98|
+26|Memphis Grizzlies|Philadelphia76ers|112|106|
+26|San Antonio Spurs|HoustonRockets|96|89|
+26|Golden State Warriors|BrooklynNets|116|100|
+26|Dallas Mavericks|OklahomaCityThunder|111|96|
+26|Sacramento Kings|LosAngelesLakers|86|101|
+27|Detroit Pistons|CharlotteHornets|103|113|
+27|Houston Rockets|IndianaPacers|115|103|
+27|New York Knicks|OrlandoMagic|89|115|
+27|Denver Nuggets|MilwaukeeBucks|114|121|
+27|Portland Trail Blazers|BostonCeltics|100|94|
+27|Los Angeles Lakers|AtlantaHawks|107|106|
+28|Washington Wizards|OrlandoMagic|117|109|
+28|Miami Heat|Philadelphia76ers|114|124|
+28|Toronto Raptors|NewOrleansPelicans|110|126|
+28|Chicago Bulls|DallasMavericks|98|103|
+28|Memphis Grizzlies|UtahJazz|88|96|
+28|Minnesota Timberwolves|BrooklynNets|120|113|
+28|Oklahoma City Thunder|PhoenixSuns|118|101|
+28|Sacramento Kings|SanAntonioSpurs|104|99|
+28|Los Angeles Clippers|GoldenStateWarriors|121|116|
+29|Cleveland Cavaliers|CharlotteHornets|113|89|
+29|Denver Nuggets|HoustonRockets|99|109|
+29|Golden State Warriors|AtlantaHawks|110|103|
+30|Orlando Magic|Philadelphia76ers|111|106|
+30|Washington Wizards|ClevelandCavaliers|119|95|
+30|Boston Celtics|ChicagoBulls|111|82|
+30|Brooklyn Nets|MiamiHeat|107|120|
+30|Toronto Raptors|DetroitPistons|104|106|
+30|Milwaukee Bucks|MemphisGrizzlies|113|116|
+30|Minnesota Timberwolves|NewOrleansPelicans|107|100|
+30|Oklahoma City Thunder|NewYorkKnicks|128|103|
+30|Dallas Mavericks|UtahJazz|118|68|
+30|Phoenix Suns|SanAntonioSpurs|116|96|
+30|Los Angeles Lakers|PortlandTrailBlazers|126|117|
+31|Houston Rockets|GoldenStateWarriors|107|86|
+31|Denver Nuggets|AtlantaHawks|138|93|
+31|Los Angeles Clippers|SanAntonioSpurs|116|111|
+32|Boston Celtics|TorontoRaptors|123|116|
+32|Indiana Pacers|MiamiHeat|99|91|
+32|Philadelphia 76ers|UtahJazz|113|107|
+32|Washington Wizards|BrooklynNets|104|115|
+32|Memphis Grizzlies|SacramentoKings|112|104|
+32|Minnesota Timberwolves|PortlandTrailBlazers|112|96|
+32|New Orleans Pelicans|NewYorkKnicks|129|124|
+32|Milwaukee Bucks|ChicagoBulls|123|104|
+33|Brooklyn Nets|LosAngelesClippers|119|127|
+33|Charlotte Hornets|Philadelphia76ers|119|122|
+33|Indiana Pacers|AtlantaHawks|97|89|
+33|Orlando Magic|LosAngelesLakers|130|117|
+33|New Orleans Pelicans|DenverNuggets|125|115|
+33|Boston Celtics|UtahJazz|86|98|
+33|Chicago Bulls|TorontoRaptors|83|122|
+33|Houston Rockets|SacramentoKings|132|112|
+33|Dallas Mavericks|GoldenStateWarriors|112|109|
+33|Phoenix Suns|OklahomaCityThunder|100|110|
+34|Minnesota Timberwolves|MemphisGrizzlies|87|100|
+34|Miami Heat|LosAngelesLakers|97|113|
+34|Orlando Magic|NewYorkKnicks|131|117|
+34|Washington Wizards|PortlandTrailBlazers|109|119|
+34|San Antonio Spurs|GoldenStateWarriors|104|92|
+35|Charlotte Hornets|BostonCeltics|117|112|
+35|Detroit Pistons|ClevelandCavaliers|113|102|
+35|Indiana Pacers|UtahJazz|121|94|
+35|Philadelphia 76ers|PhoenixSuns|119|114|
+35|Atlanta Hawks|LosAngelesClippers|119|127|
+35|Memphis Grizzlies|DallasMavericks|98|88|
+35|Milwaukee Bucks|DenverNuggets|104|98|
+35|New Orleans Pelicans|SanAntonioSpurs|140|126|
+35|Sacramento Kings|OklahomaCityThunder|117|113|
+36|Orlando Magic|TorontoRaptors|91|93|
+36|Washington Wizards|LosAngelesClippers|125|118|
+36|Miami Heat|BrooklynNets|92|104|
+36|New York Knicks|PortlandTrailBlazers|114|118|
+37|Charlotte Hornets|IndianaPacers|127|109|
+37|Philadelphia 76ers|NewOrleansPelicans|121|120|
+37|Atlanta Hawks|TorontoRaptors|108|124|
+37|Boston Celtics|NewYorkKnicks|109|117|
+37|Cleveland Cavaliers|LosAngelesLakers|105|109|
+37|Chicago Bulls|PhoenixSuns|124|116|
+37|Houston Rockets|DetroitPistons|126|124|
+37|Milwaukee Bucks|PortlandTrailBlazers|143|100|
+37|Minnesota Timberwolves|DenverNuggets|101|103|
+37|Dallas Mavericks|BrooklynNets|119|113|
+37|San Antonio Spurs|MemphisGrizzlies|103|104|
+37|Utah Jazz|SacramentoKings|110|119|
+37|Golden State Warriors|OklahomaCityThunder|95|123|
+38|Brooklyn Nets|MinnesotaTimberwolves|102|112|
+38|Los Angeles Clippers|MemphisGrizzlies|112|107|
+38|Detroit Pistons|HoustonRockets|116|111|
+38|Atlanta Hawks|BostonCeltics|96|114|
+38|New York Knicks|NewOrleansPelicans|114|109|
+38|Philadelphia 76ers|ClevelandCavaliers|112|121|
+38|Toronto Raptors|WashingtonWizards|125|107|
+38|Indiana Pacers|SanAntonioSpurs|100|111|
+38|Chicago Bulls|MiamiHeat|96|103|
+38|Oklahoma City Thunder|CharlotteHornets|109|104|
+38|Milwaukee Bucks|PhoenixSuns|114|116|
+38|Denver Nuggets|OrlandoMagic|112|87|
+38|Golden State Warriors|PortlandTrailBlazers|125|97|
+38|Los Angeles Lakers|UtahJazz|90|83|
+39|Cleveland Cavaliers|HoustonRockets|117|108|
+39|Washington Wizards|NewOrleansPelicans|124|114|
+39|Minnesota Timberwolves|ChicagoBulls|111|96|
+39|Oklahoma City Thunder|DenverNuggets|98|105|
+39|Dallas Mavericks|BostonCeltics|113|104|
+39|Milwaukee Bucks|SanAntonioSpurs|135|129|
+39|Golden State Warriors|SacramentoKings|117|116|
+40|Los Angeles Lakers|OrlandoMagic|104|108|
+40|Detroit Pistons|PhoenixSuns|118|107|
+40|Atlanta Hawks|CharlotteHornets|124|123|
+40|Brooklyn Nets|Philadelphia76ers|125|127|
+40|Toronto Raptors|MiamiHeat|125|115|
+40|Memphis Grizzlies|NewYorkKnicks|98|103|
+40|Sacramento Kings|UtahJazz|112|133|
+40|Portland Trail Blazers|LosAngelesClippers|100|104|
+41|Charlotte Hornets|MilwaukeeBucks|110|107|
+41|Cleveland Cavaliers|MinnesotaTimberwolves|95|102|
+41|Washington Wizards|HoustonRockets|135|131|
+41|Chicago Bulls|SanAntonioSpurs|107|108|
+41|New Orleans Pelicans|BostonCeltics|107|124|
+41|Utah Jazz|IndianaPacers|88|121|
+41|Golden State Warriors|OrlandoMagic|116|110|
+42|Detroit Pistons|NewYorkKnicks|115|108|
+42|Miami Heat|AtlantaHawks|113|115|
+42|Memphis Grizzlies|TorontoRaptors|114|122|
+42|Denver Nuggets|LosAngelesLakers|117|85|
+42|Phoenix Suns|IndianaPacers|104|109|
+43|Charlotte Hornets|AtlantaHawks|108|94|
+43|Philadelphia 76ers|NewYorkKnicks|117|91|
+43|Brooklyn Nets|UtahJazz|91|101|
+43|Houston Rockets|DallasMavericks|108|128|
+43|Milwaukee Bucks|ChicagoBulls|116|113|
+43|Minnesota Timberwolves|SanAntonioSpurs|128|89|
+43|New Orleans Pelicans|WashingtonWizards|125|104|
+43|Oklahoma City Thunder|ClevelandCavaliers|100|83|
+43|Portland Trail Blazers|OrlandoMagic|115|112|
+43|Los Angeles Clippers|PhoenixSuns|115|99|
+44|Toronto Raptors|GoldenStateWarriors|131|128|
+44|Los Angeles Lakers|IndianaPacers|104|96|
+44|Sacramento Kings|LosAngelesClippers|121|133|
+45|Boston Celtics|ClevelandCavaliers|128|95|
+45|Charlotte Hornets|UtahJazz|111|119|
+45|Detroit Pistons|ChicagoBulls|107|88|
+45|Philadelphia 76ers|WashingtonWizards|123|98|
+45|Brooklyn Nets|MemphisGrizzlies|125|131|
+45|Miami Heat|NewOrleansPelicans|106|101|
+45|Oklahoma City Thunder|AtlantaHawks|124|109|
+45|San Antonio Spurs|HoustonRockets|105|136|
+45|Phoenix Suns|OrlandoMagic|85|99|
+45|Los Angeles Lakers|DallasMavericks|114|103|
+45|Portland Trail Blazers|DenverNuggets|112|113|
+46|New York Knicks|MilwaukeeBucks|136|134|
+46|Detroit Pistons|GoldenStateWarriors|111|102|
+46|Washington Wizards|BrooklynNets|102|88|
+46|Cleveland Cavaliers|TorontoRaptors|95|106|
+46|Houston Rockets|ChicagoBulls|121|105|
+46|Minnesota Timberwolves|BostonCeltics|109|118|
+46|Sacramento Kings|IndianaPacers|111|110|
+47|Los Angeles Lakers|PhoenixSuns|120|96|
+47|Charlotte Hornets|NewOrleansPelicans|109|119|
+47|Miami Heat|UtahJazz|102|100|
+47|Philadelphia 76ers|MemphisGrizzlies|103|95|
+47|Dallas Mavericks|LosAngelesClippers|114|110|
+47|San Antonio Spurs|PortlandTrailBlazers|131|118|
+48|Detroit Pistons|OklahomaCityThunder|83|110|
+48|Atlanta Hawks|GoldenStateWarriors|111|128|
+48|Brooklyn Nets|ClevelandCavaliers|97|99|
+48|New York Knicks|WashingtonWizards|107|110|
+48|Toronto Raptors|DenverNuggets|103|106|
+48|Minnesota Timberwolves|HoustonRockets|103|91|
+48|New Orleans Pelicans|LosAngelesClippers|126|129|
+49|Indiana Pacers|ChicagoBulls|96|90|
+49|Miami Heat|OrlandoMagic|90|105|
+49|Dallas Mavericks|PortlandTrailBlazers|111|102|
+49|Phoenix Suns|SacramentoKings|105|122|
+49|Utah Jazz|SanAntonioSpurs|139|105|
+50|Cleveland Cavaliers|GoldenStateWarriors|105|129|
+50|Orlando Magic|DenverNuggets|118|124|
+50|Atlanta Hawks|WashingtonWizards|117|131|
+50|Brooklyn Nets|OklahomaCityThunder|112|114|
+50|Toronto Raptors|Philadelphia76ers|113|102|
+50|Memphis Grizzlies|LosAngelesClippers|96|86|
+50|Milwaukee Bucks|DetroitPistons|115|92|
+50|Minnesota Timberwolves|CharlotteHornets|121|104|
+50|New Orleans Pelicans|DallasMavericks|132|106|
+50|Los Angeles Lakers|SanAntonioSpurs|121|113|
+51|Boston Celtics|NewYorkKnicks|128|100|
+51|Portland Trail Blazers|PhoenixSuns|108|86|
+51|Utah Jazz|HoustonRockets|118|91|
+52|Charlotte Hornets|DenverNuggets|113|107|
+52|Detroit Pistons|Philadelphia76ers|111|117|
+52|Orlando Magic|IndianaPacers|90|112|
+52|Brooklyn Nets|TorontoRaptors|106|105|
+52|Cleveland Cavaliers|SacramentoKings|110|129|
+52|Chicago Bulls|OklahomaCityThunder|114|112|
+52|New Orleans Pelicans|MemphisGrizzlies|103|107|
+52|San Antonio Spurs|LosAngelesLakers|133|120|
+52|Phoenix Suns|MiamiHeat|98|115|
+52|Milwaukee Bucks|GoldenStateWarriors|95|105|
+53|Dallas Mavericks|HoustonRockets|107|104|
+53|Indiana Pacers|SacramentoKings|107|97|
+53|Atlanta Hawks|DenverNuggets|106|98|
+53|Cleveland Cavaliers|WashingtonWizards|116|101|
+53|New York Knicks|BrooklynNets|104|112|
+53|Chicago Bulls|BostonCeltics|77|133|
+53|Memphis Grizzlies|LosAngelesLakers|88|111|
+53|Portland Trail Blazers|MinnesotaTimberwolves|113|105|
+53|Los Angeles Clippers|MiamiHeat|98|121|
+54|Detroit Pistons|NewOrleansPelicans|108|116|
+54|Toronto Raptors|MilwaukeeBucks|99|104|
+54|San Antonio Spurs|UtahJazz|110|97|
+54|New York Knicks|CharlotteHornets|107|119|
+55|Indiana Pacers|WashingtonWizards|109|101|
+55|Philadelphia 76ers|DetroitPistons|116|102|
+55|Boston Celtics|NewOrleansPelicans|113|100|
+55|Chicago Bulls|SacramentoKings|89|108|
+55|Milwaukee Bucks|ClevelandCavaliers|108|92|
+55|Oklahoma City Thunder|UtahJazz|122|113|
+55|Dallas Mavericks|OrlandoMagic|101|76|
+55|Denver Nuggets|MemphisGrizzlies|105|99|
+55|Phoenix Suns|LosAngelesClippers|119|123|
+55|Golden State Warriors|MinnesotaTimberwolves|116|108|
+55|Los Angeles Lakers|MiamiHeat|108|105|
+56|Houston Rockets|PortlandTrailBlazers|111|104|
+56|San Antonio Spurs|PhoenixSuns|111|86|
+56|Los Angeles Clippers|TorontoRaptors|99|123|
+57|Charlotte Hornets|DetroitPistons|108|107|
+57|Cleveland Cavaliers|NewYorkKnicks|113|106|
+57|Indiana Pacers|MilwaukeeBucks|113|97|
+57|Philadelphia 76ers|BrooklynNets|124|127|
+57|Washington Wizards|BostonCeltics|125|130|
+57|Memphis Grizzlies|PortlandTrailBlazers|92|83|
+57|New Orleans Pelicans|OklahomaCityThunder|118|114|
+57|Dallas Mavericks|AtlantaHawks|114|107|
+57|Utah Jazz|MiamiHeat|111|84|
+57|Sacramento Kings|MinnesotaTimberwolves|141|130|
+57|Golden State Warriors|TorontoRaptors|93|113|
+58|Houston Rockets|LosAngelesLakers|126|111|
+58|San Antonio Spurs|LosAngelesClippers|125|87|
+58|Orlando Magic|ChicagoBulls|97|91|
+58|Phoenix Suns|DallasMavericks|99|89|
+59|Boston Celtics|AtlantaHawks|129|108|
+59|Charlotte Hornets|NewYorkKnicks|124|126|
+59|Brooklyn Nets|WashingtonWizards|125|118|
+59|Cleveland Cavaliers|MilwaukeeBucks|102|114|
+59|Philadelphia 76ers|IndianaPacers|101|113|
+59|Memphis Grizzlies|MiamiHeat|97|100|
+59|Denver Nuggets|OklahomaCityThunder|109|98|
+59|Portland Trail Blazers|TorontoRaptors|128|122|
+59|Sacramento Kings|GoldenStateWarriors|125|130|
+60|Orlando Magic|UtahJazz|96|89|
+60|Charlotte Hornets|LosAngelesLakers|100|128|
+60|Detroit Pistons|BostonCeltics|113|104|
+60|Memphis Grizzlies|HoustonRockets|97|105|
+60|San Antonio Spurs|ChicagoBulls|93|98|
+60|Oklahoma City Thunder|LosAngelesClippers|110|104|
+60|Phoenix Suns|MinnesotaTimberwolves|107|99|
+61|Brooklyn Nets|AtlantaHawks|144|127|
+61|Cleveland Cavaliers|Philadelphia76ers|105|128|
+61|Indiana Pacers|NewYorkKnicks|110|99|
+61|Washington Wizards|LosAngelesLakers|128|110|
+61|Dallas Mavericks|SacramentoKings|113|120|
+61|New Orleans Pelicans|MiamiHeat|96|102|
+61|Denver Nuggets|TorontoRaptors|95|86|
+62|Detroit Pistons|MilwaukeeBucks|104|107|
+62|New York Knicks|PhoenixSuns|110|128|
+62|Houston Rockets|UtahJazz|102|97|
+62|Minnesota Timberwolves|SacramentoKings|132|105|
+62|Oklahoma City Thunder|ChicagoBulls|121|96|
+62|San Antonio Spurs|Philadelphia76ers|123|96|
+62|Golden State Warriors|MemphisGrizzlies|110|93|
+62|Los Angeles Clippers|PortlandTrailBlazers|127|131|
+63|Indiana Pacers|ClevelandCavaliers|91|92|
+63|Atlanta Hawks|WashingtonWizards|118|110|
+63|Brooklyn Nets|LosAngelesLakers|115|110|
+63|Denver Nuggets|DallasMavericks|126|118|
+64|Charlotte Hornets|ClevelandCavaliers|110|99|
+64|Orlando Magic|SanAntonioSpurs|90|129|
+64|Philadelphia 76ers|NewYorkKnicks|131|109|
+64|Boston Celtics|PhoenixSuns|103|111|
+64|Toronto Raptors|IndianaPacers|99|96|
+64|Chicago Bulls|BrooklynNets|93|96|
+64|Houston Rockets|WashingtonWizards|136|118|
+64|Milwaukee Bucks|NewOrleansPelicans|123|115|
+64|Minnesota Timberwolves|DetroitPistons|123|129|
+64|Utah Jazz|GoldenStateWarriors|108|103|
+64|Portland Trail Blazers|MemphisGrizzlies|99|92|
+64|Sacramento Kings|OklahomaCityThunder|113|132|
+65|Miami Heat|HoustonRockets|101|99|
+65|Los Angeles Clippers|DallasMavericks|125|121|
+66|Charlotte Hornets|DetroitPistons|98|86|
+66|Toronto Raptors|ClevelandCavaliers|126|110|
+66|Brooklyn Nets|IndianaPacers|106|114|
+66|New York Knicks|AtlantaHawks|107|114|
+66|Boston Celtics|MilwaukeeBucks|107|120|
+66|Chicago Bulls|OrlandoMagic|90|80|
+66|San Antonio Spurs|MinnesotaTimberwolves|124|98|
+66|Portland Trail Blazers|UtahJazz|90|120|
+66|Sacramento Kings|MemphisGrizzlies|102|99|
+66|Los Angeles Lakers|NewOrleansPelicans|112|104|
+67|Los Angeles Clippers|DenverNuggets|132|111|
+67|Washington Wizards|PhoenixSuns|149|146|
+67|Philadelphia 76ers|TorontoRaptors|126|101|
+67|Miami Heat|MilwaukeeBucks|94|87|
+67|Houston Rockets|SanAntonioSpurs|108|101|
+67|Golden State Warriors|DallasMavericks|120|116|
+67|Utah Jazz|OklahomaCityThunder|106|107|
+68|Detroit Pistons|AtlantaHawks|95|98|
+68|Indiana Pacers|WashingtonWizards|105|89|
+68|Boston Celtics|CharlotteHornets|119|103|
+68|Brooklyn Nets|PhoenixSuns|111|103|
+68|Cleveland Cavaliers|ChicagoBulls|92|112|
+68|Orlando Magic|MiamiHeat|91|115|
+68|Sacramento Kings|NewOrleansPelicans|122|117|
+68|Oklahoma City Thunder|MinnesotaTimberwolves|112|114|
+68|Golden State Warriors|LosAngelesClippers|129|127|
+68|Portland Trail Blazers|DallasMavericks|121|118|
+68|Los Angeles Lakers|MemphisGrizzlies|99|107|
+69|New York Knicks|MilwaukeeBucks|95|109|
+69|Houston Rockets|OklahomaCityThunder|113|109|
+69|Boston Celtics|Philadelphia76ers|121|114|
+69|Golden State Warriors|LosAngelesLakers|101|127|
+69|Utah Jazz|PortlandTrailBlazers|117|96|
+70|Detroit Pistons|WashingtonWizards|106|95|
+70|Orlando Magic|PhoenixSuns|120|122|
+70|Atlanta Hawks|IndianaPacers|121|129|
+70|Brooklyn Nets|CharlotteHornets|134|132|
+70|Miami Heat|TorontoRaptors|104|106|
+70|Chicago Bulls|MinnesotaTimberwolves|94|119|
+70|Memphis Grizzlies|ClevelandCavaliers|95|87|
+70|Dallas Mavericks|NewOrleansPelicans|122|119|
+70|San Antonio Spurs|DenverNuggets|111|103|
+70|Los Angeles Clippers|SacramentoKings|127|118|
+71|Houston Rockets|BostonCeltics|127|113|
+71|Milwaukee Bucks|NewYorkKnicks|112|96|
+71|Sacramento Kings|LosAngelesLakers|117|116|
+71|Utah Jazz|Philadelphia76ers|97|114|
+71|Golden State Warriors|PortlandTrailBlazers|109|110|
+72|Charlotte Hornets|BrooklynNets|100|87|
+72|Indiana Pacers|DetroitPistons|125|88|
+72|Orlando Magic|TorontoRaptors|116|87|
+72|Washington Wizards|ChicagoBulls|92|101|
+72|Miami Heat|ClevelandCavaliers|118|94|
+72|Minnesota Timberwolves|AtlantaHawks|120|123|
+72|New Orleans Pelicans|DallasMavericks|114|112|
+72|Denver Nuggets|SanAntonioSpurs|102|99|
+72|Phoenix Suns|OklahomaCityThunder|102|118|
+72|Los Angeles Lakers|LosAngelesClippers|107|118|
+73|Milwaukee Bucks|BrooklynNets|129|115|
+73|New Orleans Pelicans|HoustonRockets|104|108|
+73|Washington Wizards|CharlotteHornets|130|126|
+73|Atlanta Hawks|ClevelandCavaliers|111|108|
+73|Memphis Grizzlies|BostonCeltics|103|112|
+73|Utah Jazz|NewYorkKnicks|129|97|
+73|Phoenix Suns|DenverNuggets|118|122|
+73|Portland Trail Blazers|GoldenStateWarriors|105|115|
+73|Los Angeles Clippers|SanAntonioSpurs|111|122|
+74|Orlando Magic|DetroitPistons|109|107|
+74|Miami Heat|MinnesotaTimberwolves|104|113|
+74|Toronto Raptors|ChicagoBulls|95|89|
+74|Dallas Mavericks|OklahomaCityThunder|105|103|
+74|Portland Trail Blazers|Philadelphia76ers|129|95|
+74|Los Angeles Lakers|SacramentoKings|121|114|
+75|Indiana Pacers|AtlantaHawks|116|108|
+75|Charlotte Hornets|OrlandoMagic|125|100|
+75|Houston Rockets|MemphisGrizzlies|113|101|
+75|San Antonio Spurs|BostonCeltics|120|111|
+75|New Orleans Pelicans|MinnesotaTimberwolves|123|114|
+75|Oklahoma City Thunder|DallasMavericks|122|102|
+75|Phoenix Suns|GoldenStateWarriors|109|132|
+76|Toronto Raptors|UtahJazz|122|116|
+76|Milwaukee Bucks|DetroitPistons|121|98|
+76|Denver Nuggets|NewYorkKnicks|115|108|
+76|Sacramento Kings|PortlandTrailBlazers|108|113|
+76|Los Angeles Clippers|Philadelphia76ers|113|119|
+77|Charlotte Hornets|DallasMavericks|84|122|
+77|Cleveland Cavaliers|MiamiHeat|92|117|
+77|Washington Wizards|AtlantaHawks|114|98|
+77|Brooklyn Nets|NewOrleansPelicans|126|121|
+77|Boston Celtics|MinnesotaTimberwolves|115|102|
+77|Chicago Bulls|OrlandoMagic|84|112|
+77|Memphis Grizzlies|DetroitPistons|94|101|
+77|Phoenix Suns|Philadelphia76ers|127|132|
+77|Los Angeles Lakers|OklahomaCityThunder|100|107|
+78|San Antonio Spurs|TorontoRaptors|125|107|
+78|Sacramento Kings|DenverNuggets|113|117|
+78|Golden State Warriors|HoustonRockets|134|135|
+79|Cleveland Cavaliers|UtahJazz|91|117|
+79|Boston Celtics|DallasMavericks|114|93|
+79|Miami Heat|WashingtonWizards|115|109|
+79|Chicago Bulls|IndianaPacers|116|119|
+79|Memphis Grizzlies|BrooklynNets|100|109|
+79|Minnesota Timberwolves|OrlandoMagic|120|103|
+79|Milwaukee Bucks|AtlantaHawks|144|112|
+79|Phoenix Suns|LosAngelesClippers|111|121|
+79|Los Angeles Lakers|NewYorkKnicks|112|119|
+79|Portland Trail Blazers|OklahomaCityThunder|109|111|
+80|Denver Nuggets|CharlotteHornets|123|110|
+80|Detroit Pistons|UtahJazz|105|110|
+80|Philadelphia 76ers|DallasMavericks|106|100|
+80|Cleveland Cavaliers|NewOrleansPelicans|98|133|
+80|Milwaukee Bucks|TorontoRaptors|116|123|
+80|San Antonio Spurs|MemphisGrizzlies|108|88|
+80|Portland Trail Blazers|HoustonRockets|110|101|
+80|Sacramento Kings|GoldenStateWarriors|123|127|
+81|Chicago Bulls|BrooklynNets|100|117|
+81|Minnesota Timberwolves|LosAngelesLakers|108|86|
+81|Los Angeles Clippers|OrlandoMagic|106|96|
+81|Atlanta Hawks|MiamiHeat|106|82|
+81|Oklahoma City Thunder|WashingtonWizards|98|116|
+81|Toronto Raptors|IndianaPacers|121|105|
+81|Phoenix Suns|CharlotteHornets|113|119|
+82|Detroit Pistons|SanAntonioSpurs|107|119|
+82|Boston Celtics|BrooklynNets|116|95|
+82|Houston Rockets|DenverNuggets|125|113|
+82|Milwaukee Bucks|UtahJazz|114|102|
+82|New Orleans Pelicans|MemphisGrizzlies|114|95|
+82|Dallas Mavericks|LosAngelesLakers|97|107|
+82|Portland Trail Blazers|NewYorkKnicks|111|101|
+82|Sacramento Kings|OrlandoMagic|111|95|
+83|Cleveland Cavaliers|IndianaPacers|115|123|
+83|Philadelphia 76ers|WashingtonWizards|132|115|
+83|Miami Heat|DenverNuggets|99|103|
+83|Toronto Raptors|AtlantaHawks|104|101|
+83|Oklahoma City Thunder|MinnesotaTimberwolves|117|119|
+83|Phoenix Suns|SacramentoKings|115|111|
+83|Golden State Warriors|NewYorkKnicks|122|95|
+83|Los Angeles Clippers|CharlotteHornets|128|109|
+84|Boston Celtics|IndianaPacers|135|108|
+84|Washington Wizards|Philadelphia76ers|123|106|
+84|Brooklyn Nets|AtlantaHawks|116|100|
+84|Houston Rockets|MilwaukeeBucks|109|116|
+84|Memphis Grizzlies|SanAntonioSpurs|96|86|
+84|New Orleans Pelicans|ClevelandCavaliers|140|124|
+84|Dallas Mavericks|PhoenixSuns|104|94|
+84|Utah Jazz|OrlandoMagic|106|93|
+84|Portland Trail Blazers|ChicagoBulls|124|112|
+84|Los Angeles Lakers|DetroitPistons|113|100|
+85|Miami Heat|BostonCeltics|115|99|
+85|Denver Nuggets|LosAngelesClippers|121|100|
+85|San Antonio Spurs|OklahomaCityThunder|154|147|
+85|Sacramento Kings|DetroitPistons|112|102|
+86|Philadelphia 76ers|AtlantaHawks|121|123|
+86|Washington Wizards|MilwaukeeBucks|113|106|
+86|New York Knicks|IndianaPacers|106|121|
+86|Toronto Raptors|BrooklynNets|122|105|
+86|Houston Rockets|ClevelandCavaliers|141|113|
+86|Minnesota Timberwolves|DallasMavericks|115|119|
+86|Utah Jazz|LosAngelesLakers|113|95|
+86|Portland Trail Blazers|CharlotteHornets|127|96|
+86|Golden State Warriors|ChicagoBulls|146|109|
+87|Los Angeles Clippers|DetroitPistons|104|109|
+87|Miami Heat|MemphisGrizzlies|112|108|
+87|Orlando Magic|BostonCeltics|105|103|
+87|Minnesota Timberwolves|NewOrleansPelicans|110|106|
+87|Oklahoma City Thunder|SanAntonioSpurs|122|112|
+87|Phoenix Suns|DenverNuggets|102|93|
+87|Sacramento Kings|CharlotteHornets|104|97|
+87|Utah Jazz|ChicagoBulls|110|102|
+88|New York Knicks|Philadelphia76ers|105|108|
+88|Washington Wizards|TorontoRaptors|138|140|
+88|Atlanta Hawks|MilwaukeeBucks|114|133|
+88|Orlando Magic|HoustonRockets|116|109|
+88|Dallas Mavericks|GoldenStateWarriors|114|119|
+88|Denver Nuggets|PortlandTrailBlazers|116|113|
+88|Los Angeles Lakers|ClevelandCavaliers|95|101|
+89|Brooklyn Nets|BostonCeltics|109|102|
+89|Houston Rockets|MemphisGrizzlies|112|94|
+89|San Antonio Spurs|CharlotteHornets|93|108|
+89|Utah Jazz|DetroitPistons|100|94|
+89|Sacramento Kings|PortlandTrailBlazers|115|107|
+89|Los Angeles Clippers|NewOrleansPelicans|117|121|
+90|Indiana Pacers|PhoenixSuns|131|97|
+90|Philadelphia 76ers|MinnesotaTimberwolves|149|107|
+90|Atlanta Hawks|OklahomaCityThunder|142|126|
+90|Milwaukee Bucks|MiamiHeat|124|86|
+90|Denver Nuggets|GoldenStateWarriors|111|142|
+90|Los Angeles Lakers|ChicagoBulls|107|100|
+91|Detroit Pistons|OrlandoMagic|120|115|
+91|Boston Celtics|TorontoRaptors|117|108|
+91|Houston Rockets|BrooklynNets|142|145|
+91|Memphis Grizzlies|MilwaukeeBucks|101|111|
+91|Dallas Mavericks|SanAntonioSpurs|101|105|
+91|Portland Trail Blazers|ClevelandCavaliers|129|112|
+91|Golden State Warriors|NewOrleansPelicans|147|140|
+91|Los Angeles Clippers|UtahJazz|109|129|
+92|Washington Wizards|NewYorkKnicks|101|100|
+92|Charlotte Hornets|SacramentoKings|114|95|
+92|Indiana Pacers|Philadelphia76ers|96|120|
+92|Toronto Raptors|PhoenixSuns|111|109|
+92|Denver Nuggets|ChicagoBulls|135|105|
+92|Oklahoma City Thunder|LosAngelesLakers|128|138|
+93|Boston Celtics|MemphisGrizzlies|122|116|
+93|Detroit Pistons|MiamiHeat|98|93|
+93|Orlando Magic|BrooklynNets|115|117|
+93|Minnesota Timberwolves|SanAntonioSpurs|113|116|
+93|Utah Jazz|ClevelandCavaliers|115|99|
+93|Los Angeles Clippers|GoldenStateWarriors|94|112|
+93|Portland Trail Blazers|NewOrleansPelicans|128|112|
+94|Philadelphia 76ers|OklahomaCityThunder|115|117|
+94|Charlotte Hornets|PhoenixSuns|135|115|
+94|Detroit Pistons|SacramentoKings|101|103|
+94|Indiana Pacers|DallasMavericks|111|99|
+94|Orlando Magic|MilwaukeeBucks|108|118|
+94|Atlanta Hawks|BostonCeltics|105|113|
+94|Toronto Raptors|MemphisGrizzlies|119|90|
+94|Chicago Bulls|MiamiHeat|103|117|
+94|Houston Rockets|LosAngelesLakers|138|134|
+94|Denver Nuggets|ClevelandCavaliers|124|102|
+95|Indiana Pacers|CharlotteHornets|120|95|
+95|Minnesota Timberwolves|PhoenixSuns|116|114|
+95|San Antonio Spurs|LosAngelesClippers|95|103|
+96|New York Knicks|OklahomaCityThunder|109|127|
+96|Cleveland Cavaliers|ChicagoBulls|88|104|
+96|Washington Wizards|DetroitPistons|101|87|
+96|Milwaukee Bucks|DallasMavericks|116|106|
+96|Atlanta Hawks|OrlandoMagic|103|122|
+96|Brooklyn Nets|SacramentoKings|123|94|
+96|Memphis Grizzlies|NewOrleansPelicans|85|105|
+96|Boston Celtics|MiamiHeat|107|99|
+96|Philadelphia 76ers|HoustonRockets|121|93|
+96|Utah Jazz|PortlandTrailBlazers|104|109|
+96|Los Angeles Lakers|GoldenStateWarriors|111|130|
+97|Toronto Raptors|SacramentoKings|||01:00
+97|Oklahoma City Thunder|PortlandTrailBlazers|||02:00
+97|Dallas Mavericks|LosAngelesClippers|||02:30
+97|Phoenix Suns|MinnesotaTimberwolves|||03:00
+98|Indiana Pacers|TorontoRaptors|||01:00
+98|Boston Celtics|ClevelandCavaliers|||01:30
+98|Brooklyn Nets|OrlandoMagic|||01:30
+98|Miami Heat|LosAngelesClippers|||01:30
+98|New York Knicks|HoustonRockets|||01:30
+98|Philadelphia 76ers|SanAntonioSpurs|||02:00
+98|Chicago Bulls|AtlantaHawks|||02:00
+98|Memphis Grizzlies|CharlotteHornets|||02:00
+98|New Orleans Pelicans|DetroitPistons|||02:00
+98|Utah Jazz|DenverNuggets|||04:30
+99|Washington Wizards|GoldenStateWarriors|||02:00
+99|Oklahoma City Thunder|NewOrleansPelicans|||02:00
+99|Phoenix Suns|PortlandTrailBlazers|||03:00
+99|Los Angeles Lakers|MinnesotaTimberwolves|||04:30
+100|Orlando Magic|WashingtonWizards|||01:00
+100|Brooklyn Nets|NewYorkKnicks|||01:30
+100|Cleveland Cavaliers|MiamiHeat|||01:30
+100|Chicago Bulls|LosAngelesClippers|||02:00
+100|Houston Rockets|TorontoRaptors|||02:00
+100|Memphis Grizzlies|SacramentoKings|||02:00
+100|Dallas Mavericks|DetroitPistons|||02:30
+100|Milwaukee Bucks|CharlotteHornets|||02:30
+100|Denver Nuggets|PhoenixSuns|||03:00
+100|Utah Jazz|MinnesotaTimberwolves|||03:00
+101|New Orleans Pelicans|SanAntonioSpurs|||00:00
+101|Memphis Grizzlies|IndianaPacers|||02:00
+101|Boston Celtics|GoldenStateWarriors|||02:30
+101|Denver Nuggets|Philadelphia76ers|||03:00
+101|Portland Trail Blazers|AtlantaHawks|||04:00
+102|Chicago Bulls|ClevelandCavaliers|||21:30
+102|Los Angeles Clippers|SacramentoKings|||21:30
+102|Oklahoma City Thunder|MilwaukeeBucks|||00:00
+102|Houston Rockets|OrlandoMagic|||01:00
+102|Dallas Mavericks|TorontoRaptors|||01:00
+102|Minnesota Timberwolves|UtahJazz|||01:00
+102|San Antonio Spurs|WashingtonWizards|||01:00
+102|New York Knicks|MiamiHeat|||01:30
+102|Los Angeles Lakers|PhoenixSuns|||03:30
+103|Charlotte Hornets|NewYorkKnicks|||01:00
+103|Indiana Pacers|GoldenStateWarriors|||01:00
+103|Boston Celtics|BrooklynNets|||01:30
+103|Memphis Grizzlies|DenverNuggets|||02:00
+103|Los Angeles Clippers|AtlantaHawks|||04:30
+104|Cleveland Cavaliers|WashingtonWizards|||01:00
+104|Detroit Pistons|MilwaukeeBucks|||01:00
+104|Orlando Magic|OklahomaCityThunder|||01:00
+104|Brooklyn Nets|ChicagoBulls|||01:30
+104|Houston Rockets|NewOrleansPelicans|||02:00
+104|San Antonio Spurs|PhoenixSuns|||02:30
+104|Los Angeles Lakers|Philadelphia76ers|||04:30
+105|Boston Celtics|CharlotteHornets|||01:30
+105|Miami Heat|ChicagoBulls|||01:30
+105|New York Knicks|DallasMavericks|||01:30
+105|Washington Wizards|IndianaPacers|||02:00
+105|Minnesota Timberwolves|MemphisGrizzlies|||02:00
+105|New Orleans Pelicans|DenverNuggets|||02:00
+105|Sacramento Kings|AtlantaHawks|||04:00
+105|Portland Trail Blazers|UtahJazz|||04:30
+106|Detroit Pistons|DallasMavericks|||01:00
+106|Orlando Magic|IndianaPacers|||01:00
+106|Toronto Raptors|MilwaukeeBucks|||02:00
+106|San Antonio Spurs|BrooklynNets|||02:30
+106|Golden State Warriors|Philadelphia76ers|||04:30
+106|Los Angeles Clippers|LosAngelesLakers|||04:30
+107|Charlotte Hornets|MemphisGrizzlies|||01:00
+107|New York Knicks|BostonCeltics|||01:30
+107|Miami Heat|OklahomaCityThunder|||02:00
+107|Utah Jazz|AtlantaHawks|||03:00
+107|Denver Nuggets|HoustonRockets|||04:00
+108|Detroit Pistons|LosAngelesClippers|||23:00
+108|Charlotte Hornets|ChicagoBulls|||01:00
+108|Orlando Magic|BrooklynNets|||01:00
+108|Washington Wizards|MilwaukeeBucks|||01:00
+108|Cleveland Cavaliers|DallasMavericks|||01:30
+108|Miami Heat|IndianaPacers|||01:30
+108|San Antonio Spurs|NewOrleansPelicans|||02:30
+108|Golden State Warriors|LosAngelesLakers|||02:30
+108|Minnesota Timberwolves|DenverNuggets|||03:00
+108|Phoenix Suns|AtlantaHawks|||03:00
+108|Utah Jazz|HoustonRockets|||03:00
+108|Sacramento Kings|Philadelphia76ers|||04:00
+109|New York Knicks|MemphisGrizzlies|||19:00
+109|Boston Celtics|OklahomaCityThunder|||20:00
+109|Toronto Raptors|LosAngelesClippers|||21:00
+110|Detroit Pistons|DenverNuggets|||01:00
+110|Washington Wizards|AtlantaHawks|||01:00
+110|Brooklyn Nets|MilwaukeeBucks|||01:30
+110|New Orleans Pelicans|IndianaPacers|||02:00
+110|Phoenix Suns|HoustonRockets|||03:00
+110|Sacramento Kings|SanAntonioSpurs|||04:00
+111|Charlotte Hornets|LosAngelesClippers|||01:00
+111|Cleveland Cavaliers|BostonCeltics|||01:00
+111|Indiana Pacers|LosAngelesLakers|||01:00
+111|New York Knicks|DetroitPistons|||01:30
+111|Philadelphia 76ers|TorontoRaptors|||02:00
+111|Memphis Grizzlies|MinnesotaTimberwolves|||02:00
+111|Oklahoma City Thunder|OrlandoMagic|||02:00
+111|Portland Trail Blazers|MiamiHeat|||04:30
+112|Brooklyn Nets|DenverNuggets|||01:30
+112|Chicago Bulls|NewOrleansPelicans|||02:00
+112|Milwaukee Bucks|WashingtonWizards|||02:00
+112|Dallas Mavericks|CharlotteHornets|||02:30
+112|Utah Jazz|PhoenixSuns|||03:00
+112|Sacramento Kings|HoustonRockets|||04:00
+112|Golden State Warriors|SanAntonioSpurs|||04:30
+113|Indiana Pacers|LosAngelesClippers|||01:00
+113|Orlando Magic|MinnesotaTimberwolves|||01:00
+113|Atlanta Hawks|TorontoRaptors|||01:30
+113|Boston Celtics|LosAngelesLakers|||02:00
+113|Oklahoma City Thunder|MemphisGrizzlies|||02:00
+113|Portland Trail Blazers|SanAntonioSpurs|||04:30
+114|Detroit Pistons|NewYorkKnicks|||01:00
+114|Philadelphia 76ers|DenverNuggets|||01:00
+114|Washington Wizards|ClevelandCavaliers|||01:00
+114|Brooklyn Nets|ChicagoBulls|||01:30
+114|Dallas Mavericks|MilwaukeeBucks|||02:30
+114|Phoenix Suns|GoldenStateWarriors|||03:00
+114|New Orleans Pelicans|MinnesotaTimberwolves|||03:30
+114|Sacramento Kings|MiamiHeat|||04:00
+115|Utah Jazz|SanAntonioSpurs|||23:00
+115|Indiana Pacers|ClevelandCavaliers|||01:00
+115|Atlanta Hawks|CharlotteHornets|||01:30
+115|New York Knicks|TorontoRaptors|||01:30
+115|Boston Celtics|LosAngelesClippers|||02:00
+115|Chicago Bulls|WashingtonWizards|||02:00
+115|Memphis Grizzlies|NewOrleansPelicans|||02:00
+115|Houston Rockets|OklahomaCityThunder|||02:30
+115|Milwaukee Bucks|OrlandoMagic|||03:00
+116|Dallas Mavericks|PortlandTrailBlazers|||21:00
+116|Philadelphia 76ers|LosAngelesLakers|||21:30
+116|Sacramento Kings|PhoenixSuns|||00:00
+116|Atlanta Hawks|OrlandoMagic|||01:30
+116|Golden State Warriors|MiamiHeat|||02:30
+117|Cleveland Cavaliers|NewYorkKnicks|||01:00
+117|Detroit Pistons|WashingtonWizards|||01:00
+117|Indiana Pacers|CharlotteHornets|||01:00
+117|Toronto Raptors|BrooklynNets|||01:30
+117|Chicago Bulls|MilwaukeeBucks|||02:00
+117|Houston Rockets|DallasMavericks|||02:00
+117|Minnesota Timberwolves|LosAngelesClippers|||02:00
+117|Oklahoma City Thunder|PortlandTrailBlazers|||02:00
+117|Denver Nuggets|MiamiHeat|||03:00
+118|Atlanta Hawks|LosAngelesLakers|||01:30
+118|Philadelphia 76ers|BostonCeltics|||02:00
+118|Memphis Grizzlies|SanAntonioSpurs|||02:00
+118|New Orleans Pelicans|OrlandoMagic|||02:00
+118|Golden State Warriors|UtahJazz|||04:30
+119|Cleveland Cavaliers|BrooklynNets|||01:00
+119|Indiana Pacers|MilwaukeeBucks|||01:00
+119|Boston Celtics|DetroitPistons|||01:30
+119|New York Knicks|Philadelphia76ers|||01:30
+119|Toronto Raptors|WashingtonWizards|||01:30
+119|Chicago Bulls|MemphisGrizzlies|||02:00
+119|Dallas Mavericks|MiamiHeat|||02:30
+119|Denver Nuggets|SacramentoKings|||03:00
+119|Minnesota Timberwolves|HoustonRockets|||03:30
+119|Portland Trail Blazers|GoldenStateWarriors|||04:00
+119|Los Angeles Clippers|PhoenixSuns|||04:30
+120|Orlando Magic|CharlotteHornets|||01:00
+120|Atlanta Hawks|NewYorkKnicks|||01:30
+120|New Orleans Pelicans|OklahomaCityThunder|||02:00
+121|Cleveland Cavaliers|PhoenixSuns|||01:00
+121|Philadelphia 76ers|MiamiHeat|||01:00
+121|Brooklyn Nets|PortlandTrailBlazers|||01:30
+121|Milwaukee Bucks|BostonCeltics|||02:00
+121|Golden State Warriors|SacramentoKings|||04:30
+121|Los Angeles Lakers|HoustonRockets|||04:30
+122|Charlotte Hornets|WashingtonWizards|||01:00
+122|Indiana Pacers|NewOrleansPelicans|||01:00
+122|Orlando Magic|ChicagoBulls|||01:00
+122|Toronto Raptors|SanAntonioSpurs|||01:00
+122|Atlanta Hawks|DetroitPistons|||01:30
+122|New York Knicks|MinnesotaTimberwolves|||01:30
+122|Memphis Grizzlies|LosAngelesClippers|||02:00
+122|Dallas Mavericks|DenverNuggets|||02:30
+122|Oklahoma City Thunder|UtahJazz|||03:30
+123|Philadelphia 76ers|PortlandTrailBlazers|||19:00
+123|Atlanta Hawks|PhoenixSuns|||01:00
+123|Charlotte Hornets|BrooklynNets|||01:00
+123|Cleveland Cavaliers|MemphisGrizzlies|||01:00
+123|Washington Wizards|IndianaPacers|||01:00
+123|New Orleans Pelicans|LosAngelesLakers|||01:00
+123|Miami Heat|DetroitPistons|||01:30
+123|Chicago Bulls|BostonCeltics|||02:00
+123|Oklahoma City Thunder|SacramentoKings|||02:00
+123|Milwaukee Bucks|MinnesotaTimberwolves|||02:30
+123|Golden State Warriors|HoustonRockets|||02:30
+123|Utah Jazz|DallasMavericks|||04:00
+124|Toronto Raptors|OrlandoMagic|||21:30
+124|Denver Nuggets|LosAngelesClippers|||23:00
+124|New York Knicks|SanAntonioSpurs|||01:30
+125|Charlotte Hornets|GoldenStateWarriors|||01:00
+125|Cleveland Cavaliers|PortlandTrailBlazers|||01:00
+125|Detroit Pistons|IndianaPacers|||01:00
+125|Brooklyn Nets|SanAntonioSpurs|||01:30
+125|Miami Heat|PhoenixSuns|||01:30
+125|Chicago Bulls|MilwaukeeBucks|||02:00
+125|Houston Rockets|AtlantaHawks|||02:00
+125|Memphis Grizzlies|LosAngelesLakers|||02:00
+125|Minnesota Timberwolves|SacramentoKings|||02:00
+125|New Orleans Pelicans|Philadelphia76ers|||02:00
+125|Los Angeles Clippers|DallasMavericks|||04:30
+126|New York Knicks|OrlandoMagic|||01:30
+126|Toronto Raptors|BostonCeltics|||02:00
+126|Denver Nuggets|OklahomaCityThunder|||04:30
+127|Charlotte Hornets|HoustonRockets|||01:00
+127|Atlanta Hawks|MinnesotaTimberwolves|||01:30
+127|Boston Celtics|PortlandTrailBlazers|||01:30
+127|Brooklyn Nets|WashingtonWizards|||01:30
+127|Miami Heat|GoldenStateWarriors|||01:30
+127|Memphis Grizzlies|ChicagoBulls|||02:00
+127|San Antonio Spurs|DetroitPistons|||02:00
+127|Dallas Mavericks|IndianaPacers|||02:30
+127|Utah Jazz|LosAngelesClippers|||03:00
+127|Sacramento Kings|MilwaukeeBucks|||04:00
+127|Los Angeles Lakers|NewOrleansPelicans|||04:30
+128|Indiana Pacers|MinnesotaTimberwolves|||01:00
+128|Orlando Magic|GoldenStateWarriors|||01:00
+128|New York Knicks|ClevelandCavaliers|||01:30
+128|Houston Rockets|MiamiHeat|||02:00
+128|Denver Nuggets|UtahJazz|||03:00
+128|Oklahoma City Thunder|Philadelphia76ers|||03:30
+129|Atlanta Hawks|ChicagoBulls|||01:30
+129|Brooklyn Nets|CharlotteHornets|||01:30
+129|Toronto Raptors|PortlandTrailBlazers|||01:30
+129|Boston Celtics|WashingtonWizards|||02:00
+129|Phoenix Suns|NewOrleansPelicans|||03:00
+129|Sacramento Kings|LosAngelesClippers|||04:00
+129|Los Angeles Lakers|MilwaukeeBucks|||04:30
+130|Cleveland Cavaliers|DetroitPistons|||23:00
+130|Indiana Pacers|OrlandoMagic|||01:00
+130|Miami Heat|BrooklynNets|||01:30
+130|Philadelphia 76ers|GoldenStateWarriors|||02:30
+130|Dallas Mavericks|MemphisGrizzlies|||02:30
+130|San Antonio Spurs|OklahomaCityThunder|||02:30
+130|Denver Nuggets|NewOrleansPelicans|||03:00
+130|Phoenix Suns|LosAngelesLakers|||03:00
+130|Utah Jazz|MilwaukeeBucks|||03:00
+131|Charlotte Hornets|PortlandTrailBlazers|||19:00
+131|Boston Celtics|HoustonRockets|||21:30
+131|Chicago Bulls|AtlantaHawks|||21:30
+131|Los Angeles Clippers|NewYorkKnicks|||21:30
+131|Cleveland Cavaliers|OrlandoMagic|||00:00
+131|Detroit Pistons|TorontoRaptors|||00:00
+131|Washington Wizards|MinnesotaTimberwolves|||00:00
+131|Oklahoma City Thunder|MemphisGrizzlies|||01:00
+132|Brooklyn Nets|DallasMavericks|||01:30
+132|Miami Heat|AtlantaHawks|||01:30
+132|San Antonio Spurs|DenverNuggets|||02:30
+132|Phoenix Suns|MilwaukeeBucks|||03:00
+132|Utah Jazz|NewOrleansPelicans|||03:00
+132|Sacramento Kings|NewYorkKnicks|||04:00
+132|Los Angeles Lakers|LosAngelesClippers|||04:30
+133|Indiana Pacers|ChicagoBulls|||01:00
+133|Philadelphia 76ers|OrlandoMagic|||01:00
+133|Toronto Raptors|HoustonRockets|||02:00
+133|Memphis Grizzlies|PortlandTrailBlazers|||02:00
+133|Minnesota Timberwolves|OklahomaCityThunder|||02:00
+133|Golden State Warriors|BostonCeltics|||04:30
+134|Charlotte Hornets|MiamiHeat|||01:00
+134|Detroit Pistons|MinnesotaTimberwolves|||01:00
+134|Washington Wizards|DallasMavericks|||01:00
+134|Atlanta Hawks|SanAntonioSpurs|||01:30
+134|Brooklyn Nets|ClevelandCavaliers|||01:30
+134|Chicago Bulls|Philadelphia76ers|||02:00
+134|New Orleans Pelicans|UtahJazz|||02:00
+134|Phoenix Suns|NewYorkKnicks|||03:00
+134|Sacramento Kings|BostonCeltics|||04:00
+134|Los Angeles Lakers|DenverNuggets|||04:30
+135|Milwaukee Bucks|IndianaPacers|||02:00
+135|Portland Trail Blazers|OklahomaCityThunder|||04:30
+136|Charlotte Hornets|WashingtonWizards|||01:00
+136|Orlando Magic|DallasMavericks|||01:00
+136|Miami Heat|ClevelandCavaliers|||02:00
+136|Chicago Bulls|DetroitPistons|||02:00
+136|Houston Rockets|Philadelphia76ers|||02:00
+136|Memphis Grizzlies|UtahJazz|||02:00
+136|New Orleans Pelicans|TorontoRaptors|||02:00
+136|Golden State Warriors|DenverNuggets|||04:30
+136|Los Angeles Clippers|OklahomaCityThunder|||04:30
+137|New York Knicks|SacramentoKings|||18:00
+137|Atlanta Hawks|BrooklynNets|||01:00
+137|Minnesota Timberwolves|WashingtonWizards|||02:00
+137|Los Angeles Lakers|BostonCeltics|||02:30
+137|Milwaukee Bucks|CharlotteHornets|||03:00
+137|Portland Trail Blazers|PhoenixSuns|||04:00
+138|Detroit Pistons|ChicagoBulls|||17:00
+138|Miami Heat|TorontoRaptors|||20:30
+138|Philadelphia 76ers|IndianaPacers|||20:30
+138|Atlanta Hawks|NewOrleansPelicans|||23:00
+138|Memphis Grizzlies|OrlandoMagic|||23:00
+138|Dallas Mavericks|HoustonRockets|||00:00
+138|Minnesota Timberwolves|NewYorkKnicks|||01:00
+138|San Antonio Spurs|MilwaukeeBucks|||01:00
+138|Golden State Warriors|PhoenixSuns|||01:30
+139|Cleveland Cavaliers|TorontoRaptors|||00:00
+139|Washington Wizards|SacramentoKings|||00:00
+139|Brooklyn Nets|DetroitPistons|||00:30
+139|Houston Rockets|CharlotteHornets|||01:00
+139|Utah Jazz|OklahomaCityThunder|||02:00
+139|Los Angeles Clippers|BostonCeltics|||03:30
+140|Indiana Pacers|NewYorkKnicks|||00:00
+140|Philadelphia 76ers|ClevelandCavaliers|||00:00
+140|Chicago Bulls|LosAngelesLakers|||01:00
+140|New Orleans Pelicans|MilwaukeeBucks|||01:00
+140|Dallas Mavericks|SanAntonioSpurs|||01:30
+140|Denver Nuggets|MinnesotaTimberwolves|||03:30
+140|Los Angeles Clippers|PortlandTrailBlazers|||03:30
+141|Miami Heat|DetroitPistons|||00:00
+141|Washington Wizards|OrlandoMagic|||00:00
+141|Atlanta Hawks|MemphisGrizzlies|||00:30
+141|Oklahoma City Thunder|BrooklynNets|||01:00
+141|Houston Rockets|GoldenStateWarriors|||02:30
+141|Phoenix Suns|UtahJazz|||03:00
+142|Indiana Pacers|OklahomaCityThunder|||00:00
+142|Orlando Magic|ClevelandCavaliers|||00:00
+142|Boston Celtics|SacramentoKings|||00:30
+142|Toronto Raptors|LosAngelesLakers|||01:00
+142|Utah Jazz|MinnesotaTimberwolves|||02:00
+142|Denver Nuggets|DallasMavericks|||03:30
+143|Detroit Pistons|LosAngelesLakers|||00:00
+143|Philadelphia 76ers|SacramentoKings|||00:00
+143|Washington Wizards|CharlotteHornets|||00:00
+143|Miami Heat|MilwaukeeBucks|||01:00
+143|Houston Rockets|PhoenixSuns|||01:00
+143|New Orleans Pelicans|PortlandTrailBlazers|||01:00
+143|San Antonio Spurs|NewYorkKnicks|||01:30
+143|Los Angeles Clippers|ChicagoBulls|||03:30
+144|Boston Celtics|AtlantaHawks|||17:30
+144|Washington Wizards|MemphisGrizzlies|||00:00
+144|New Orleans Pelicans|PhoenixSuns|||00:00
+144|Dallas Mavericks|ClevelandCavaliers|||01:30
+144|Oklahoma City Thunder|GoldenStateWarriors|||01:30
+144|San Antonio Spurs|PortlandTrailBlazers|||01:30
+144|Denver Nuggets|IndianaPacers|||02:00
+144|Utah Jazz|BrooklynNets|||02:00
+145|New York Knicks|LosAngelesLakers|||17:00
+145|Miami Heat|CharlotteHornets|||18:00
+145|Milwaukee Bucks|Philadelphia76ers|||20:30
+145|Detroit Pistons|TorontoRaptors|||21:00
+145|Orlando Magic|AtlantaHawks|||23:00
+145|Sacramento Kings|ChicagoBulls|||23:00
+145|Houston Rockets|MinnesotaTimberwolves|||02:00
+145|Los Angeles Clippers|BrooklynNets|||02:00
+146|Cleveland Cavaliers|DetroitPistons|||00:00
+146|Washington Wizards|UtahJazz|||00:00
+146|Boston Celtics|DenverNuggets|||00:30
+146|Toronto Raptors|NewYorkKnicks|||00:30
+146|Oklahoma City Thunder|MiamiHeat|||01:00
+146|San Antonio Spurs|GoldenStateWarriors|||01:00
+146|Dallas Mavericks|NewOrleansPelicans|||01:30
+146|Phoenix Suns|ChicagoBulls|||03:00
+146|Portland Trail Blazers|IndianaPacers|||03:30
+147|Charlotte Hornets|Philadelphia76ers|||00:00
+147|Atlanta Hawks|HoustonRockets|||00:30
+147|Milwaukee Bucks|LosAngelesLakers|||01:00
+147|Minnesota Timberwolves|GoldenStateWarriors|||01:00
+147|Sacramento Kings|BrooklynNets|||03:00
+147|Los Angeles Clippers|IndianaPacers|||03:30
+148|Cleveland Cavaliers|MilwaukeeBucks|||00:00
+148|Orlando Magic|NewOrleansPelicans|||00:00
+148|Philadelphia 76ers|BostonCeltics|||00:00
+148|New York Knicks|UtahJazz|||00:30
+148|Chicago Bulls|WashingtonWizards|||01:00
+148|Memphis Grizzlies|HoustonRockets|||01:00
+148|San Antonio Spurs|MiamiHeat|||01:30
+148|Oklahoma City Thunder|TorontoRaptors|||02:30
+148|Portland Trail Blazers|DallasMavericks|||03:00
+149|Charlotte Hornets|MinnesotaTimberwolves|||00:00
+149|Washington Wizards|DenverNuggets|||00:00
+149|Atlanta Hawks|UtahJazz|||00:30
+149|Phoenix Suns|DetroitPistons|||03:00
+149|Sacramento Kings|DallasMavericks|||03:00
+149|Golden State Warriors|IndianaPacers|||03:30
+150|Orlando Magic|MemphisGrizzlies|||00:00
+150|Cleveland Cavaliers|LosAngelesClippers|||00:30
+150|New York Knicks|DenverNuggets|||00:30
+150|Toronto Raptors|OklahomaCityThunder|||00:30
+150|Houston Rockets|SanAntonioSpurs|||01:00
+150|Milwaukee Bucks|MiamiHeat|||01:30
+150|Los Angeles Lakers|BrooklynNets|||03:30
+151|Charlotte Hornets|BostonCeltics|||23:00
+151|Washington Wizards|MiamiHeat|||00:00
+151|Atlanta Hawks|Philadelphia76ers|||00:30
+151|Chicago Bulls|UtahJazz|||01:00
+151|Memphis Grizzlies|MinnesotaTimberwolves|||01:00
+151|Golden State Warriors|DallasMavericks|||01:30
+151|Portland Trail Blazers|DetroitPistons|||03:00
+151|Sacramento Kings|PhoenixSuns|||03:00
+152|New York Knicks|LosAngelesClippers|||17:00
+152|Milwaukee Bucks|ClevelandCavaliers|||21:30
+152|Indiana Pacers|DenverNuggets|||22:00
+152|Toronto Raptors|CharlotteHornets|||23:00
+152|New Orleans Pelicans|HoustonRockets|||00:00
+152|Boston Celtics|SanAntonioSpurs|||00:30
+152|Golden State Warriors|DetroitPistons|||01:30
+152|Los Angeles Lakers|SacramentoKings|||02:30
+153|Orlando Magic|Philadelphia76ers|||00:00
+153|Memphis Grizzlies|OklahomaCityThunder|||01:00
+153|Utah Jazz|PhoenixSuns|||02:00
+153|Portland Trail Blazers|BrooklynNets|||03:00
+154|Charlotte Hornets|SanAntonioSpurs|||00:00
+154|Cleveland Cavaliers|BostonCeltics|||00:00
+154|Miami Heat|OrlandoMagic|||00:30
+154|Toronto Raptors|ChicagoBulls|||00:30
+154|Milwaukee Bucks|HoustonRockets|||01:00
+154|Minnesota Timberwolves|LosAngelesClippers|||01:00
+154|New Orleans Pelicans|AtlantaHawks|||01:00
+154|Dallas Mavericks|SacramentoKings|||01:30
+154|Denver Nuggets|DetroitPistons|||02:00
+154|Los Angeles Lakers|WashingtonWizards|||03:30
+155|Chicago Bulls|PortlandTrailBlazers|||01:00
+155|Memphis Grizzlies|GoldenStateWarriors|||01:00
+155|Oklahoma City Thunder|IndianaPacers|||01:00
+155|Phoenix Suns|WashingtonWizards|||03:00
+155|Utah Jazz|LosAngelesLakers|||03:30
+156|Detroit Pistons|OrlandoMagic|||00:00
+156|Philadelphia 76ers|BrooklynNets|||00:00
+156|Miami Heat|DallasMavericks|||00:30
+156|New York Knicks|TorontoRaptors|||00:30
+156|Houston Rockets|DenverNuggets|||01:00
+156|Milwaukee Bucks|LosAngelesClippers|||01:00
+156|New Orleans Pelicans|SacramentoKings|||01:00
+156|San Antonio Spurs|ClevelandCavaliers|||01:30
+157|Boston Celtics|IndianaPacers|||00:00
+157|Atlanta Hawks|PortlandTrailBlazers|||00:30
+157|Minnesota Timberwolves|GoldenStateWarriors|||01:00
+157|Oklahoma City Thunder|DenverNuggets|||01:00
+157|Utah Jazz|WashingtonWizards|||02:00
+157|Los Angeles Lakers|CharlotteHornets|||03:30
+158|Los Angeles Clippers|ClevelandCavaliers|||20:30
+158|Brooklyn Nets|BostonCeltics|||23:00
+158|Houston Rockets|SacramentoKings|||23:00
+158|Detroit Pistons|PortlandTrailBlazers|||00:00
+158|Indiana Pacers|OrlandoMagic|||00:00
+158|New York Knicks|MiamiHeat|||00:30
+158|Chicago Bulls|TorontoRaptors|||01:00
+158|Minnesota Timberwolves|Philadelphia76ers|||01:00
+158|Phoenix Suns|MemphisGrizzlies|||04:00
+159|Atlanta Hawks|MilwaukeeBucks|||18:30
+159|Oklahoma City Thunder|DallasMavericks|||21:30
+159|New Orleans Pelicans|LosAngelesLakers|||00:00
+159|San Antonio Spurs|SacramentoKings|||01:00
+159|Denver Nuggets|WashingtonWizards|||02:00
+159|Golden State Warriors|CharlotteHornets|||02:30
+159|Los Angeles Clippers|MemphisGrizzlies|||04:30
+160|Indiana Pacers|DetroitPistons|||01:00
+160|Boston Celtics|MiamiHeat|||01:30
+160|Brooklyn Nets|MilwaukeeBucks|||01:30
+160|New York Knicks|ChicagoBulls|||01:30
+160|Toronto Raptors|OrlandoMagic|||01:30
+160|Minnesota Timberwolves|PortlandTrailBlazers|||02:00
+160|Dallas Mavericks|Philadelphia76ers|||02:30
+160|Utah Jazz|CharlotteHornets|||03:00
+160|Phoenix Suns|ClevelandCavaliers|||04:00
+161|Oklahoma City Thunder|LosAngelesLakers|||02:00
+161|San Antonio Spurs|AtlantaHawks|||02:30
+161|Sacramento Kings|HoustonRockets|||04:00
+161|Golden State Warriors|DenverNuggets|||04:30
+162|Detroit Pistons|IndianaPacers|||01:00
+162|Orlando Magic|NewYorkKnicks|||01:00
+162|Washington Wizards|ChicagoBulls|||01:00
+162|Atlanta Hawks|Philadelphia76ers|||01:30
+162|Brooklyn Nets|TorontoRaptors|||01:30
+162|Miami Heat|BostonCeltics|||01:30
+162|New Orleans Pelicans|CharlotteHornets|||02:00
+162|Dallas Mavericks|MinnesotaTimberwolves|||02:30
+162|Denver Nuggets|SanAntonioSpurs|||03:00
+162|Phoenix Suns|UtahJazz|||04:00
+162|Portland Trail Blazers|MemphisGrizzlies|||04:00
+162|Los Angeles Clippers|HoustonRockets|||04:30
+163|Philadelphia 76ers|MilwaukeeBucks|||02:00
+163|Sacramento Kings|ClevelandCavaliers|||04:00
+163|Los Angeles Lakers|GoldenStateWarriors|||04:30
+164|Charlotte Hornets|TorontoRaptors|||01:00
+164|Orlando Magic|AtlantaHawks|||01:00
+164|Washington Wizards|SanAntonioSpurs|||01:00
+164|Indiana Pacers|BostonCeltics|||02:00
+164|Houston Rockets|NewYorkKnicks|||02:00
+164|Minnesota Timberwolves|MiamiHeat|||02:00
+164|Oklahoma City Thunder|DetroitPistons|||02:00
+164|Dallas Mavericks|MemphisGrizzlies|||02:30
+164|Utah Jazz|SacramentoKings|||03:00
+164|Phoenix Suns|NewOrleansPelicans|||04:00
+164|Denver Nuggets|PortlandTrailBlazers|||04:30
+164|Golden State Warriors|ClevelandCavaliers|||04:30
+164|Los Angeles Clippers|LosAngelesLakers|||04:30
+165|Milwaukee Bucks|BrooklynNets|||23:00
+165|Chicago Bulls|Philadelphia76ers|||02:00
+166|Toronto Raptors|MiamiHeat|||18:00
+166|Cleveland Cavaliers|SanAntonioSpurs|||21:00
+166|Minnesota Timberwolves|OklahomaCityThunder|||21:30
+166|Detroit Pistons|CharlotteHornets|||22:00
+166|Indiana Pacers|BrooklynNets|||23:00
+166|Memphis Grizzlies|DallasMavericks|||00:00
+166|Milwaukee Bucks|AtlantaHawks|||01:00
+166|Boston Celtics|OrlandoMagic|||01:30
+166|New York Knicks|WashingtonWizards|||01:30
+166|Houston Rockets|PhoenixSuns|||02:00
+166|Golden State Warriors|LosAngelesClippers|||02:30
+166|Portland Trail Blazers|DenverNuggets|||03:00
+166|Sacramento Kings|NewOrleansPelicans|||03:00
+166|Los Angeles Lakers|UtahJazz|||03:30
+167|Cleveland Cavaliers|CharlotteHornets|||01:00
+167|Detroit Pistons|MemphisGrizzlies|||01:00
+167|Washington Wizards|BostonCeltics|||01:00
+167|Miami Heat|Philadelphia76ers|||01:30
+167|Chicago Bulls|NewYorkKnicks|||02:00
+167|Minnesota Timberwolves|TorontoRaptors|||02:00
+167|New Orleans Pelicans|GoldenStateWarriors|||02:00
+167|Dallas Mavericks|PhoenixSuns|||02:30
+167|Utah Jazz|DenverNuggets|||03:00
+167|Oklahoma City Thunder|HoustonRockets|||03:30
+167|Los Angeles Lakers|PortlandTrailBlazers|||04:30
+168|Atlanta Hawks|IndianaPacers|||02:00
+168|Brooklyn Nets|MiamiHeat|||02:00
+168|Charlotte Hornets|OrlandoMagic|||02:00
+168|New York Knicks|DetroitPistons|||02:00
+168|Philadelphia 76ers|ChicagoBulls|||02:00
+168|Memphis Grizzlies|GoldenStateWarriors|||02:00
+168|Milwaukee Bucks|OklahomaCityThunder|||02:00
+168|San Antonio Spurs|DallasMavericks|||02:00
+168|Denver Nuggets|MinnesotaTimberwolves|||04:30
+168|Los Angeles Clippers|UtahJazz|||04:30
+168|Portland Trail Blazers|SacramentoKings|||04:30

@@ -1,0 +1,56 @@
+<style>
+	h1{
+		text-align:center;
+	}
+
+	table{
+		width:40%;
+		text-align:center;
+		margin:auto;
+		padding:5px;
+		margin-bottom:100px;
+	}
+
+	.numerito{
+		background:orange;
+		font-style:italic;
+		font-size:16px;
+	}
+	
+	.numerito td{
+		padding:5px;
+	}
+
+	.contenido{
+		background:#C8CEF9;
+	}
+	
+	.contenido td{
+		
+		padding:10px;
+	}
+
+</style>
+<head>
+	<title> Calendario</title>
+	{% include 'header.html' %}	
+</head>
+<body>
+
+	<h1>Calendario NBA</h1>
+		
+
+	<table>
+		{% for i in jornadas %}
+		<tr class="numerito">
+			<td>Jornada {{i}}</td>
+		</tr>
+		<tr class="contenido">
+			<td>{{i.local}} {{i.puntosL}} vs {{i.puntosV}} {{i.visitante}}   {{i.hora}} </td>
+		</tr>	
+		{% endfor %}
+	</table>
+	
+	
+</body>
+</html>

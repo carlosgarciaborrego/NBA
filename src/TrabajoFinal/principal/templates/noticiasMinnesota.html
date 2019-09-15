@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang='es'>
+<style>
+	h1{
+		text-align:center;
+		font-size: 40px;
+	}
+	
+	div{
+		float:left;
+		overflow: hidden;
+		width:95%;
+		padding:10px;
+		text-align:center;
+	}
+	
+	.mini{
+	    float: left;
+	    width: 40%;
+	    font-size: 14px;
+	    margin: 10px 10px 10px 50px;
+	    list-style:none;
+	}
+	
+	li{
+		color:black;
+		margin-bottom:5px;
+	}
+	
+	.titular{
+		font-size:15px;
+		background:navy;
+		color:white;
+		box-shadow: 1px -3px #6495ED;
+		border-radius:30px;
+	}
+	
+	.url{
+		color:sienna;
+		font-size:15px;
+	}
+	
+	.url:hover{
+		color:darkorange;
+	}
+	
+	.logos{
+		color:black;
+	}
+	
+</style>
+<head>
+	<title> Noticias Minnesota </title>
+	{% include 'header.html' %}	
+</head>
+<body>
+
+	<h1>Noticias NBA</h1>
+	{% include 'logos.html' %}	
+	<div>
+	<h1>Titulares recientes de Minnesota</h1>
+	{% for i in noticias %}
+	{% if i.referencia == 'Minnesota Timberwolves' %}
+		<div class="mini">		
+			<li class="titular">{{i.titular}}</li>
+			<li>Publicacion:    {{i.fecha}} </li>
+			<li><a class="url" href="{{i.urlPartido}}">Noticia completa</a> </li>
+			<li><a class="url" href="{{i.urlEquipo}}">Mas noticias sobre {{i.referencia}}</a></li>
+		</div>
+
+	{%endif%}
+	{% endfor %}
+	</div>
+</body>
+</html>

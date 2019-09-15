@@ -1,0 +1,87 @@
+	<!DOCTYPE html>
+<html lang='es'>
+<style>
+	h1{
+		text-align:center;
+		font-size:40px;
+	}
+	
+	table{
+		border-collapse: collapse;
+		margin: auto;
+		margin-bottom:100px;
+	}
+	
+	
+	table,th,td{
+		border:1px solid black;
+		padding:5px;
+		text-align:center;
+	}
+	
+	th{
+		background: navy;
+		color:white;
+	}
+	
+	tr:nth-child(even){
+		background: #f2f2f2;
+	}
+	
+	tr:nth-child(odd){
+		background: #ffffff;
+	}
+	
+	.oeste{
+		background:#F93535;
+		color: white;
+		border:none;
+	}
+	
+	.este{
+		background:#3597F9;
+		color:white;
+		border:none;
+	}
+	
+</style>
+<head>
+	<title> Clasificacion </title>
+	{% include 'header.html' %}	
+</head>
+<body>
+
+<h1>Clasificacion general NBA</h1>
+	<table>
+		<tr>
+			<th>Equipo</th>
+			<th>Victorias</th>
+			<th>Derrotas</th>
+			<th>Porcentaje</th>
+			<th>PuntosFavor</th>
+			<th>PuntosContra</th>
+		</tr>
+		{% for i in equipo %}
+		{% if i.nombre == 'Atlanta Hawks' or i.nombre == 'Boston Celtics' or i.nombre == 'Chicago Bulls' or i.nombre == 'Charlotte Hornets' or i.nombre == 'Brooklyn Nets' or i.nombre == 'Cleveland Cavaliers' or i.nombre == 'Miami Heat' or i.nombre == 'New York Knicks' or i.nombre == 'Detroit Pistons' or i.nombre == 'Orlando Magic' or i.nombre == 'Philadelphia Sixers' or i.nombre == 'Indiana Pacers' or i.nombre == 'Washington Wizards' or i.nombre == 'Toronto Raptors' or i.nombre == 'Milwaukee Bucks'  %}
+		<tr>
+			<td class="este"> {{i}} </td>
+			<td>{{i.victorias}} </td>
+			<td>{{i.derrotas}} </td>
+			<td>{{i.porcentaje}} </td>
+			<td>{{i.puntosFavor}} </td>
+			<td>{{i.puntosContra}} </td>
+		</tr>
+		{%else%}
+			<tr>
+			<td class="oeste"> {{i}} </td>
+			<td>{{i.victorias}} </td>
+			<td>{{i.derrotas}} </td>
+			<td>{{i.porcentaje}} </td>
+			<td>{{i.puntosFavor}} </td>
+			<td>{{i.puntosContra}} </td>
+		</tr>
+		{%endif%}
+		{% endfor %}
+	</table>
+</body>
+</html>
